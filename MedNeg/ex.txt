@@ -1,0 +1,4 @@
+# chep nhung file can thiet vao thu muc tu tao moi
+# git add .
+# git commit -m "page MedNeg"
+# git push origin project/mag-connect
